@@ -1,0 +1,20 @@
+{
+  "name": "tiktok-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TikTok Scraper: Scrape public TikTok videos from profiles, hashtags, video URLs, and keyword search, plus comments. Get captions, play, like, share, and comment counts, music, and author details.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "tiktok"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
